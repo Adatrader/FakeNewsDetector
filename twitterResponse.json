@@ -1,0 +1,64 @@
+{
+    "confidence_score": 0,
+    "data_from_tweet": {
+        "Contributors": null,
+        "Coordinates": null,
+        "Entities": {
+            "Hasgtags": null,
+            "Media": null,
+            "Symbols": null,
+            "Urls": null,
+            "User-mentions": null
+        },
+        "Geo": null,
+        "ID": null,
+        "Place": null,
+        "Text": null,
+        "User": {
+            "Contributors_enabled": null,
+            "Created_at": null,
+            "Description": null,
+            "Favourites_count": null,
+            "Followers_count": null,
+            "Friends_count": null,
+            "ID": null,
+            "Listed_count": null,
+            "Location": null,
+            "Name": null,
+            "Profile_image_url": null,
+            "Protected": null,
+            "Screenname": null,
+            "Statuses_count": null,
+            "Verified": null,
+            "entities": null,
+            "url": null
+        }
+    },
+    "origin": "Twitter",
+    "url": "https://newspunch.com/volunteer-in-oxford-astrazeneca-covid-19-vaccine-trial-dies-in-brazil/",
+    "url_info": {
+        "authors": [
+            "Baxter Dmitry"
+        ],
+        "content": "A volunteer in the AstraZeneca and University of Oxford’s coronavirus vaccine trial has died, the country’s health authority Anvisa announced on Wednesday.\n\nG1 Rio in Brazil confirmed the volunteer to be Dr João Pedro R. Feitosa, a 28-year-old from Rio De Janeiro.\n\nA spokesperson from AstraZeneca declined to comment on the volunteer, citing “medical confidentiality and clinical trial regulations.”\n\nThe spokesperson added that “[a]ll significant medical events are carefully assessed by trial investigators” and “[t]hese assessments have not led to any concerns about continuation of the ongoing study.“\n\nIn a statement, a spokesperson from the University of Oxford, which is developing the vaccine with AstraZeneca, said “there have been no concerns about safety of the clinical trial” after an assessment of the case in Brazil.\n\n“The independent review in addition to the Brazilian regulator have recommended that the trial should continue,” Oxford spokesperson Alexander Buxton said.\n\nDr João Pedro R. Feitosa (pictured), a 28-year-old from Rio De Janeiro, Brazil, was confirmed to be the volunteer who died in the Brazilian arm of AstraZeneca and the University of Oxford’s coronavirus vaccine trial\n\nCNBC report: Oxford provided no further details on the volunteer’s death, and it’s unclear if the volunteer received the vaccine. Brazil currently has the second deadliest outbreak in the world, behind the United States, with at least 115,914 deaths, according to data compiled by Johns Hopkins University.\n\nA source familiar with the situation told Reuters that the trial would have been suspended if the volunteer had been a part of the group getting the shot.\n\nThe news comes as the Food and Drug Administration still has a late-stage clinical trial from AstraZeneca on hold in the United States. That means the company is unable to administer second doses of its two-dose vaccine regimen to U.S. participants.\n\nThe company announced on Sept. 8 that its trial had been put on hold due to an unexplained illness in a patient in the United Kingdom. The patient is believed to have developed inflammation of the spinal cord, known as transverse myelitis. The trial has since resumed in the U.K. and other countries.\n\nThe U.S. is expected to resume the trial as early as this week after the FDA completed its review, Reuters reported Tuesday, citing four anonymous sources.\n\nAstraZeneca is one of four drugmakers backed by the U.S. in late-stage testing for a potential vaccine. AstraZeneca’s vaccine, called AZD1222, uses genetic material from the coronavirus with a modified adenovirus.\n\nIn July, the company published data that showed its vaccine produced a promising immune response in an early-stage trial and appeared to be well tolerated.\n\nThe vaccine produced no serious adverse events in volunteers, according to the researchers at the time. Fatigue and headache were the most commonly reported side effects, they said. Other common side effects included pain at the injection site, muscle ache, chills and a fever.",
+        "keywords": [
+            "brazil",
+            "rio",
+            "volunteer",
+            "university",
+            "coronavirus",
+            "trial",
+            "oxfordastrazeneca",
+            "oxford",
+            "vaccine",
+            "dies",
+            "covid19",
+            "astrazeneca",
+            "united",
+            "spokesperson"
+        ],
+        "publish_date": "2020-10-21 20:04:24+00:00",
+        "summary": "A volunteer in the AstraZeneca and University of Oxford’s coronavirus vaccine trial has died, the country’s health authority Anvisa announced on Wednesday.\nG1 Rio in Brazil confirmed the volunteer to be Dr João Pedro R. Feitosa, a 28-year-old from Rio De Janeiro.\n“The independent review in addition to the Brazilian regulator have recommended that the trial should continue,” Oxford spokesperson Alexander Buxton said.\nThe news comes as the Food and Drug Administration still has a late-stage clinical trial from AstraZeneca on hold in the United States.\nIn July, the company published data that showed its vaccine produced a promising immune response in an early-stage trial and appeared to be well tolerated.",
+        "title": "Volunteer in Oxford-AstraZeneca Covid-19 Vaccine Trial DIES in Brazil"
+    }
+}

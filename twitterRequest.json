@@ -1,0 +1,37 @@
+{
+    "url": "https://newspunch.com/volunteer-in-oxford-astrazeneca-covid-19-vaccine-trial-dies-in-brazil/",
+    "data_from_tweet": {
+        "Contributors": null,
+        "Coordinates": null,
+        "Entities": {
+            "Hasgtags": null,
+            "Media": null,
+            "Symbols": null,
+            "Urls": null,
+            "User-mentions": null
+        },
+        "Geo": null,
+        "ID": null,
+        "Place": null,
+        "Text": null,
+        "User": {
+            "Contributors_enabled": null,
+            "Created_at": null,
+            "Description": null,
+            "Favourites_count": null,
+            "Followers_count": null,
+            "Friends_count": null,
+            "ID": null,
+            "Listed_count": null,
+            "Location": null,
+            "Name": null,
+            "Profile_image_url": null,
+            "Protected": null,
+            "Screenname": null,
+            "Statuses_count": null,
+            "Verified": null,
+            "entities": null,
+            "url": null
+        }
+    }
+}
